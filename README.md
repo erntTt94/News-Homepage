@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/erntTt94/News-Homepage](https://github.com/erntTt94/News-Homepage)
+- Live Site URL: [https://ernttt94.github.io/News-Homepage/](https://ernttt94.github.io/News-Homepage/)
 
 ## My process
 
